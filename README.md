@@ -12,7 +12,7 @@ AWS Server Deployment from GUI And CLI
 
 - [Server Deployed Using Elastic Beanstalk GUI](http://aws-server-gui-env.eba-gpwpewyt.us-west-2.elasticbeanstalk.com/) 
 
-- [Server Deployed Using Elistic Beanstalk CLI](http://aws-server-cli-dev.us-west-2.elasticbeanstalk.com) (currently giving 502 error status)
+- [Server Deployed Using Elistic Beanstalk CLI](http://aws-server-cl-dev.us-west-2.elasticbeanstalk.com)
 
 ### Setup
 
