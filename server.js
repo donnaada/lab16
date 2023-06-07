@@ -4,7 +4,7 @@ require('dotenv').config();
 const express = require('express');
 const app = express();
 
-let PORT = process.env.PORT || 4002;
+const PORT = process.env.PORT || 4002;
 
 app.get('/', (req, res, next) => {
   res.status(200).send('Welcome to our server');
